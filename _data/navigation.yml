@@ -15,10 +15,10 @@
   new_window: false
   highlight: false
 - name: Login
-  link: https://orclida.com/login
+  link: /in_progress.html
   new_window: true
   highlight: false
 - name: Sign Up
-  link: https://orclida.com/signup
+  link: /in_progress.html
   new_window: true
   highlight: true

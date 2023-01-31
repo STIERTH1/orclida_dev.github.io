@@ -1,6 +1,6 @@
 ---
 name: Luka
 position: Developer
-image_path: https://source.unsplash.com/collection/139386/604x604?a=.png
+image_path: https://source.unsplash.com/collection/298137/605x605?a=.png
 twitter: 
 ---

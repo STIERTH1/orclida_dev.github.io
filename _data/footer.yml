@@ -9,28 +9,28 @@
     link: /contact/
 - links:
   - name: Login
-    link: /
+    link: /in_progress.html
     new_window: true
   - name: Sign Up
-    link: /
+    link: /in_progress.html
     new_window: true
   - name: Docs
-    link: /
+    link: /in_progress.html
     new_window: true
   - name: Status
-    link: /
+    link: /in_progress.html
     new_window: true
 - links:
   - name: Facebook
-    link: https://facebook.com/cloudcannon/
+    link: https://facebook.com/orclida/
     new_window: true
     social_icon: Facebook
   - name: Twitter
-    link: https://twitter.com/cloudcannon/
+    link: https://twitter.com/orclida/
     social_icon: Twitter
     new_window: true
   - name: YouTube
-    link: https://youtube.com/cloudcannon/
+    link: https://youtube.com/orclida/
     social_icon: YouTube
     new_window: true
   - name: RSS
